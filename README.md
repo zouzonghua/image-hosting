@@ -1,3 +1,3 @@
 # ImageHosting
 
-图床配合 PicGo 使用
+个人图床配合 [PicGo](https://github.com/Molunerfinn/PicGo) 使用
